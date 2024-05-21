@@ -1,0 +1,18 @@
+.navbar {
+    width: 100%;
+    background-color: #010b3f;
+    font-family: Arial;
+    color: white;
+    font-size: 2.2em;
+    padding: 10px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.purple {
+    color: #6e42ee;
+}
